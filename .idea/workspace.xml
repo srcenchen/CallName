@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2dbda6d4-d14c-4afe-b1a0-6af7ff167739" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XTDb9JJwF1jFzP0YUDTXZPtJr9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Callsomeone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Callsomeone" />
+      <module name="CallName" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Callsomeone" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2dbda6d4-d14c-4afe-b1a0-6af7ff167739" name="Default Changelist" comment="" />
+      <created>1581061259165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581061259165</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="147" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581061707140">
+      <screen x="0" y="0" width="1366" height="714" />
+    </state>
+    <state x="147" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.714@0.0.1366.714" timestamp="1581061707140" />
+    <state width="1324" height="202" key="GridCell.Tab.0.bottom" timestamp="1581062078141">
+      <screen x="0" y="0" width="1366" height="714" />
+    </state>
+    <state width="1324" height="202" key="GridCell.Tab.0.bottom/0.0.1366.714@0.0.1366.714" timestamp="1581062078141" />
+    <state width="1324" height="202" key="GridCell.Tab.0.center" timestamp="1581062078139">
+      <screen x="0" y="0" width="1366" height="714" />
+    </state>
+    <state width="1324" height="202" key="GridCell.Tab.0.center/0.0.1366.714@0.0.1366.714" timestamp="1581062078139" />
+    <state width="1324" height="202" key="GridCell.Tab.0.left" timestamp="1581062078138">
+      <screen x="0" y="0" width="1366" height="714" />
+    </state>
+    <state width="1324" height="202" key="GridCell.Tab.0.left/0.0.1366.714@0.0.1366.714" timestamp="1581062078138" />
+    <state width="1324" height="202" key="GridCell.Tab.0.right" timestamp="1581062078141">
+      <screen x="0" y="0" width="1366" height="714" />
+    </state>
+    <state width="1324" height="202" key="GridCell.Tab.0.right/0.0.1366.714@0.0.1366.714" timestamp="1581062078141" />
+  </component>
+</project>
